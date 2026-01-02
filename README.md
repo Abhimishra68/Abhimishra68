@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on<br><br>Building real-world React & JavaScript applications<br><br>Developing projects focused on clean UI, performance, and UX<br><br>Practicing DSA (Greedy, Graphs, DP) with consistent problem solving<br><br>👯 I’m looking to collaborate on<br><br>Frontend projects (React, Tailwind, Vite)<br><br>Open-source beginner-friendly repositories<br><br>Problem-solving & DSA-focused projects<br><br>🤝 I’m looking for help with<br><br>Advanced React patterns (hooks, optimization)<br><br>System design basics for frontend<br><br>Writing clean, scalable code<br><br>🌱 I’m currently learning<br><br>React (Hooks, useEffect, state management)<br><br>Data Structures & Algorithms<br><br>REST APIs & Axios<br><br>Git & GitHub best practices<br><br>💬 Ask me about<br><br>React & JavaScript fundamentals with flutter dart<br><br>Tailwind CSS<br><br>DSA problem-solving approach<br><br>Debugging frontend issues<br><br>⚡ Fun fact<br><br>I believe clean code + consistency > shortcuts<br><br>I learn faster by building and breaking things
+👨‍💻 About Me
+
+I am a motivated and detail-oriented developer with hands-on experience in building real-world applications using React, JavaScript, Flutter, and Dart. I focus on creating clean, user-centric interfaces with strong attention to performance, scalability, and UX. Alongside frontend development, I consistently practice Data Structures & Algorithms (Greedy, Graphs, DP) to strengthen my problem-solving skills.
+
+I enjoy collaborating on frontend and open-source projects, where I can contribute meaningful features and learn from real production-level codebases. Currently, I am deepening my understanding of React Hooks, state management, REST APIs, Axios, and Git/GitHub best practices, while also exploring advanced React patterns and frontend system design.
+
+I believe in writing clean, maintainable code and improving through consistency rather than shortcuts. I learn best by building projects, breaking things, debugging deeply, and refining solutions until they are scalable and efficient.
 
 
 # 💻 Tech Stack:
